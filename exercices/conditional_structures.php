@@ -14,7 +14,7 @@
     if ($temperature >= 15) {
         echo "Beautiful day!";
     } else {
-        echo "Fuck it...";
+        echo "Bad day...";
     }
     ?>
 </body>
